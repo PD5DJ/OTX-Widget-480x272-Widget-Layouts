@@ -3,6 +3,8 @@
  
  
    ![alt text](https://github.com/Hobby4life/OTX-Widget-480x272-Widget-Layouts/blob/main/layout-example.png)
+   
+   ![alt text](https://github.com/Hobby4life/OTX-Widget-480x272-Widget-Layouts/blob/main/layout-example1.png)
  
  ---------------------------------------------------------
  
