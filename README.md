@@ -1,6 +1,9 @@
 # OTX-Widget-480x272-Widget-Layouts
  OpenTX Widget layouts for 480x272 Displays
  
+ 
+   ![alt text](https://github.com/Hobby4life/OTX-Widget-480x272-Widget-Layouts/blob/main/Layout-example.png)
+ 
  ---------------------------------------------------------
  
   
